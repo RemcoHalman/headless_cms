@@ -1,0 +1,8 @@
+# Ignore everything in the folder
+public/*
+
+# Except for the content
+!public/wp-content
+
+# Fallback to ignore uploads < images etc.
+public/wp-content/uploads
